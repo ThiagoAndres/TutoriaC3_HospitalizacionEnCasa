@@ -7,8 +7,8 @@ namespace HospiEnCasa.App.Dominio
         //comentario
         
         /*
-        varias 
-        lineas
+        comentario de 
+        varias lineas
         */
 
     }
