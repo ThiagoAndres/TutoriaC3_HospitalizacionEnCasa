@@ -4,7 +4,7 @@ namespace HospiEnCasa.App.Dominio
     {
         masculino,
         femenino
-        //comentario
+        //comentario de una linea
         
         /*
         comentario de 
